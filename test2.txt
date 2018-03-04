@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E41F-6BB9
+
+ Directory of C:\Users\Rahul\Desktop\Desktop_Folders\GitProjects
+
+03/03/2018  06:36 PM    <DIR>          .
+03/03/2018  06:36 PM    <DIR>          ..
+03/03/2018  06:18 PM                44 prac.py
+03/03/2018  06:17 PM                15 test.txt
+03/03/2018  06:36 PM                 0 test2.txt
+               3 File(s)             59 bytes
+               2 Dir(s)  110,957,477,888 bytes free
