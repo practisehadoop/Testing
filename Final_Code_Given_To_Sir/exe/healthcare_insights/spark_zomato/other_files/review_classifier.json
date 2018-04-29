@@ -1,0 +1,2950 @@
+[
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "This place was really good!!!!   I totally enjoyed the freshness of the food!   The wedge salad was very fresh- like they just picked the ingredients.   The...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9758982887411785
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.01004678356166597
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004096647872281148
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0026293604914763326
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0020571185642635384
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.001990363673699125
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0011851470227076527
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0010590530270909641
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0010372370456368859
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Met up with a buddy to try this place and realized I had been here before, lol. Not a bad place at all.! It's a very nice place, almost a kind of...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.6970974909084863
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.19208817011794244
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.04299610705163762
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.017935913749361296
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.015511339285021155
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.013216817336147697
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.007497010659739652
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.007253804057498729
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0064033468341651465
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Our server was more concerned with his two 8 tops than he was with our 4 top. My entire family at one point in their lives have been servers and our server...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9828386048645396
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.005436256622796679
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0036419911736254437
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0023125692702027772
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.001555152562454105
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0013850794109296247
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0011816275174754878
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0008973499331079072
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0007513686448683493
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I actually loved this place, not sure why. Everyone was super friendly and easy-going, from wait staff, to customers and bar patrons. Ordered appetizers...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.7984263040996614
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.08986928879398108
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.058171965236053697
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0159683250314876
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.009441910369568903
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.008560140321228253
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.00784175415401937
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006226859761020576
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.00549345223297898
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Hubby and I went by for lunch to try it out. It was just okay. We expected to be wowed but we were underwhelmed. He got the fish tacos and I got the...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.7482847531947479
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.1879102589301267
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.01936466973667948
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.013475066135895377
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.006649818284712026
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006591254644257135
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006533206762254048
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005886736644795321
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.005304235666532014
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "If you are here for the beer, it deserves five stars. With so many choices your best bet is to get a reasonably priced flight of six beers. You can choose...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.8213480972955124
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.09422551754300257
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.03067707275948324
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.016166687846799793
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.012005286181177457
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.008226219562615914
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006569668210888729
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.005959407952454758
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.00482204264806503
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "This place is a 5 or even 6 star restaurant. Out waiter, Tobias, was exceptional and was very friendly. Made great suggestions and was very outgoing and...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9816947995080759
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.008064251980374425
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0026662160061396594
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0019118230864643856
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.001569961530238102
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0012892297534631099
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0010787999063921673
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0009027167073250838
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0008222015215269921
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "You have to be kidding. Poor food and worse service. The server at bar was more interested in talking to other servers..Had the side salad and tortilla...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9859239044913154
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.002939852456504787
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0025292741604936103
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0021165762942277335
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0017663478315582697
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0014740714381802976
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0011897890995749422
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.001096971632183124
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0009632125959618769
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Came here for dinner. Per previous reviews, you can make  reservations for tables larger than 3 so you don't have to wait. We made reservations for 8pm but...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9845565560935082
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.005641780185714525
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0022522607718133756
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0019434139266327913
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0013999656555902771
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0012341612259945775
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0012139657610211424
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0009771148704483619
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0007807815092766291
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Yelpers, Mr Max is Magnificent!The location is Minuscule, yet Magical.The service is Marvelous.And the food is Mammoth and Miraculous.It's magnanimous;...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.5306991038650907
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.2080040366354857
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.08152581932313772
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.07090925297812786
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.027933446055002486
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.025840766534892992
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.021202799128610995
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.020649417480660508
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.013235357998990917
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Mr Max is one of those hidden gems that I'm really glad I discovered while looking for an authentic Japanese food.  I discovered Mr Max while Mr Max...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.6467471339578789
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.18579138045376498
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.05337238503041249
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.031023237866852623
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.02343940000458739
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.017709481999687558
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.01523776085252983
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.014818938077327636
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.011860281756958488
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I'm telling you, people! This place puts Blue Fish to SHAME! I cannot imagine ever going back to any sushi place when I can have this. It's that good!...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.6353717571687275
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.20860645426660523
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.06849006470731299
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.022961308263431585
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.017193113873641166
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.013407555980272507
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.013046451953475039
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.012105135518571973
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.00881815826796175
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Poke bowls have been all the craze lately with places popping up all over the DFW area. What differentiates this place from others I've been to is how they...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9560855554878124
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.011236581427117281
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.010109249529791102
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.00635343593579518
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005589959074008278
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004714586186208273
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0022027192321159594
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.001994172865101564
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.001713740262050024
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Truly a standout in Irving. Immediately became one of my favorite lunch options in Irving - fast, fresh and delicious.Honestly shocked by how fresh and...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.7915186504605927
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.08180720631166674
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.04952743610923436
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.02576867953292049
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.016158747185963676
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.010772053645380015
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.009585602099991021
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.008776815726388597
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0060848089278623075
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Great selection of food, line moved quickly, the pita was the best anywhere! Hot from the oven. The Turkish coffee was great too! First time here, true to...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9353994441397578
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.029943220562107766
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.013606992881467429
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.007103965966741268
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.003886541842745328
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.003582091693511562
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0035710849192792347
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0021662988164215585
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0007403591779678704
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Stopped in for a quick 30 min lunch at the bar before I had to catch my flight.SEAFOOD COBB SALAD $16 for medium or $23 for largeJumbo lump crabmeat &...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9474033379599323
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.013277480728923765
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.012601757376486136
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006787260444598744
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.00606994763289239
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.004753516040054596
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0037225880863636283
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002746613737564685
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0026374979931836893
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I had a transit at Dallas for more than 3 hours at lunch time. I saw good reviews and decided to eat here.OrderedStrawberry cacktail: good and strong....",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9005054076084376
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.06648085326713597
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.007975439155240667
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.006389491532422315
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0049605970820886715
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.003988851386972602
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.00337316101621751
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.00335682192270685
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.002969377028777752
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Seriously SO deelish! I had their chicken enchiladas last week with the red sauce and I can't stop thinking about them. Also tried the sour cream sauce on...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9877335521572667
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.003025618828485292
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.002728695348208184
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0021079967200897283
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0011348789467525485
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0009283428896326893
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0009135042234283649
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0008252527669610849
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0006021581191754254
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I went for lunch, order at the counter to dine in and as soon as I sat down I was served a basket of chips with salsa. Had 3 tacos (chicken & carnitas)  and...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9233753030627289
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.026485875951139392
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.019933020725929885
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006260837264621395
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0057663827932222175
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005525893660520572
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0052954342162772755
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.004755385659114398
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0026018666664461404
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Best falafel plate ever and beautifully plated. We were very pleased with the taste and crispness. The rice was delicious as well.I will definitely be back.",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9746645477537179
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.012905978817499593
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.002925620209990501
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0023266159808436955
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0020170597844289128
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0018686401563484723
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0013283614233695236
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0010194602783815665
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0009437155954198374
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Consistently good food and service!  I have had lunch and dinner here a number of times and have had different menu items.  The service has always been good...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9808207692501523
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.007450861730760431
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.00406317652943392
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.002320130994862274
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.001417666492968449
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.001150331542802322
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0010783260351636638
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0009427267855310725
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0007560106383257486
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I don't know why it took us so long to try this place! This will be our place to go to when we are craving Chinese food. When you think about Chinese...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9821167366174197
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.006712938691620716
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0032604290017826613
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.002037318578419686
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0016318070495716188
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0015123528883908151
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0010365969120917499
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0009396975490228135
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0007521227116801243
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Yummy food and my favorites are Crispy Fried Duck, Steamed Dumplings, Lettuce Wrap,. Beef Noodle and Wonton  Soup,  The only thing when you order for to...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.7190572749125809
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.23152085942874429
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.013053988804148662
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.00805577402965775
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.006704165702732247
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.006444512814500406
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005914599337049071
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.005428259098051501
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0038205658725351073
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "My favorite soup dumplings in Texas! There's so many different ones. My two top favorites is the regular one and the steamed bun with sesame seeds at the...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.8744499955640822
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.09006650191474112
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.008691983863972302
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.005760503355881532
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.005173630824403425
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.005030167574366385
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.004530831985484687
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0035363054582883574
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0027600794587800746
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Places your exceptional you walk in and you feel like you on the one side morocco! Absolutely licious the sandswiches I highly recommend. I would drive back...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9054318494726421
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.04845481046013812
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.014800963892355978
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.007826037048215249
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006377030429174813
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.004612241318860746
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.00452585909068193
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.004244660438057051
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.003726547849874078
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Their chicken shawarma sandwich is really delicious and at such a good price too. I've also gotten their chicken kabob plate, but I feel like there's more...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9857158245085704
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.004244865799656548
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.002811462411108903
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.001703479809674813
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.001524766703334881
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0014474564557477058
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.001020710141006951
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0008404126271620803
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0006910215437375359
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Enjoyed my first visit to Post Oak Smokehouse. Arrived around 12:30pm for lunch, and there were plenty of places to sit the team (4 people). The decor was...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.8389627049929504
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.06257168461888528
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.03019377698972472
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.024257180340950365
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.011359538212209386
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.010647466055151987
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.009427419096312598
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006794271675013481
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.005785958018801639
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "tldr: would give 4.5 stars if possible. 5 for steaks, but 4 for location/atmosphere and salad bar First impression - a little sketchy location. Reminded...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9403985753515468
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.034919933819933524
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.006858676653311413
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.003628233120936808
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0033439109751090667
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0032747601387330513
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0031973102580064466
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.002618177905809665
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0017604217766132775
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "This is a cool western style bar.  Great service and delicious food.  Not so much on the healthy side but really good.Check out the glasses with bullets...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9872893869180043
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0027236532184928275
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.00248498480648923
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0018025572969046107
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0013935110875429389
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0013407704460560417
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0012227519148357712
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0010318219792701754
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0007105623324040964
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "First visit to LAW was for a business lunch.  While the atmosphere was classy, we found it a little loud.  Half of the group ordered off of the lunch menu,...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.23881391890297282
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.2287118890202111
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.2190371835087467
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.07110070636271529
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.06799414341741135
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.062080003152592544
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.04632180936033615
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.03859582536863722
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0273445209063768
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Great place for lunch or dinner with a reasonable price. Everything is always made fresh when you order with all fresh ingredients. My personal favorite is...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.986695013684987
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002724835055644439
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0022998407047095546
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0021557188757388786
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0017670655493197257
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0014491524895457926
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0013125828997597728
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.000933954350217543
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0006618363900771625
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I'm absolutely no expert in pho so you really should read no further. I've warned you but you read anyway.  I ordered pho in a chicken broth. It was tasty,...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9418629097234085
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.019936900877691965
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.014581380600875939
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006534272533230024
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0045427948577011325
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.004093463708681705
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.003319715800540251
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.002654044090198543
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002474517807672125
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I was really looking forward to eating here. I love noodles and pho so I couldn't wait to try it. First of all, nice restaurant with good decor. We went...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9486600195036802
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.014498163142311515
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.014191034547006305
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004664225332988019
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0042628230098901935
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.003920152509948462
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.003797117221903901
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0036779434372232493
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.00232852129504813
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Great spot for lunch, food was delicious, service was solid.  It's a bit loud for dine in so be prepared to eat and have minimal conversation.   Our party...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9303820866963086
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.017571822701208613
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.015915319373774512
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0144943225487624
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.005663980666002096
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005261266547217306
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.004281613033214235
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.00386182682043667
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0025677616130756124
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "We gave this location several tries but only once did they get our order correct and even then it was just OK. The first time we got to-go burgers. Didn't...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.8600627352358255
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.11315616261646651
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.006274443902351634
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.004948219482518054
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.004097212486763085
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.003755520408034896
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0032950396069981523
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002272385548390399
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.002138280712651672
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "From the moment we walked in, I knew we would enjoy Little Katana. The greeter and servers were extremely friendly. I loved the ambiance of the black cloth...",
+          "classes": [
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.6152279464516364
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.24545500858581612
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.04677583692242949
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.03450311281892231
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.01635502776156796
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.014259200364072988
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.011195158164585292
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.008997483605881746
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.007231225325087641
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I was in the mood for ramen so decided to get some from this place based on the yelp reviews. I've since had the ramen again (first time the kimchi one and...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.8887319593536761
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.06747745625274425
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.013468425613586712
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.008110464875209552
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.005791294732796667
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005564627214592528
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.00448066431961235
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0034606376875687154
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0029144699502131164
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Visited Black Sesame on 4/17/18 during my lunch break. I see their black boxes all over my job from co-worked eating there. When I went in it was no line a...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9857252375652313
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.003829570467462066
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0024562787948856704
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.001980036507182642
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0015961317493515708
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0014615951260165843
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0012048427595079876
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0009931930185721977
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0007531140117898352
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I've ordered delivery from this place 3 times to date. The overall impression averages out to 3 1/2 stars, but I decided to round up because every new place...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.988327049937961
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0021935144912142647
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0021911866187660414
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0021888612167779665
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0016254382611513318
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0010981941874555203
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0010735952230673039
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0006718176114064836
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.000630342452200045
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "The place: the place is very open with lots of 4 chair tables as well as long picnics benches. It has a very clean lobby. Not a bad looking place The...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.933714454125935
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.01635616210735457
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.014036734445989489
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.008972924574452947
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.008701288865702653
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.007912554003554213
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0041410384552261386
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.003485092607157446
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0026797508146275957
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "The food was tasty, but I didn't get very many shrimp in my noodles.  I expected more meat for the cost.  I only had four shrimp - other places normally...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9362559559784305
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.02213331133405972
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.012550431443477162
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.00948571939407345
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.00529986114739287
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005270743418432058
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0034804803084694997
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0028373588038044023
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0026861381718604515
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Just order carne asada fries, and act like you don't wanna give it 5 stars, you animal.This is an awesome socal style Mexican joint. The food is proceed...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9377797481627896
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.01582333911426215
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.014030637311059845
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.008550876693954669
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.007177295601578278
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0056093434921458745
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.004952143795872493
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.003477533386441148
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0025990824418959447
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Right off the plane from Atlanta, I had to go to the best BBQ spot in Dallas! When you arrive your greeted with the sweet smell of BBQ and smoke that will...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9037815116658767
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.03764805571881524
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.01720799180672223
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.010381425187549548
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.00912617352204712
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006929382787859886
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.00618974468434827
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.00514454769603357
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.003591166930747301
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Barbecue the way it was meant to be. Tell the pit master what and how much you want. It's priced by weight with signs warning not have eyes bigger than your...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9410437865401201
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0182801002688276
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.01482169759094815
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.005961562682240591
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005653474199377713
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004828645537522248
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.004336973312960141
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0028943919608575815
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002179367907145857
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Amazing. Just follow the dense smoke in the parking lot to the line at the front door. Order your meat by the pound from the pit master, pick up your drink...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9388595687126708
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.02233741885514432
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.010262915924523596
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006939554744752781
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0054883723829604785
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0049422466536197815
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.004450463685928035
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0034956660764934133
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0032237929639068546
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I've decided that Lime Bar is filling in as my new \"Pho District\" now that I'm rarely in Fort Worth. It's kinda got that Vietnamese Thai fusion vibe going...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.8144933597739124
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.11246186001737461
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.01598504393169597
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.013435505440282785
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.011292606214108563
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.010350753770342556
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.008960092484025645
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.008193685641432153
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.004827092726825095
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Second time there this week. Had the vegetarian pho both times. The broth was much better tonight but my meal ended tragically. I was dining inside this...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.6859948870508111
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.11735295950437175
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.07844644831415712
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.05889699518409853
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.01733282238181508
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.013782693277106395
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.010467761250374796
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.010257020613817494
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.007468412423447686
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "First time at this place which is fairly new and I was not disappointed. When we first walked in it took some time to be greeted so we were not sure if it...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9844968865740594
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.008042767336719098
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0018014530306094225
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.001369763329488352
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0011231447093962641
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0009611581579533033
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0008225342619445552
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0007571983544532713
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.000625094245376321
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Never disappointed!Mi Dia has become a weekly fix for our Tex-Mex craving.  Awesome hand-crafted cocktails are most likely awarding winning!   The menu...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.4872029761812382
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.3259392144846617
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.08626657515524883
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.028276242297191258
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.02237258241210437
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.014596817659086509
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0133754559364903
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.012256289397273289
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.009713846476705205
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Ab Fab!!!! Went for \"general Tex-mex\" walked away with a culinary masterpiece. The cocktails are all hand made, unique and spectacular! The table side...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.5555168653719289
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.10941948321008103
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.09370894928973339
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.09090342560368009
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.04153399776084107
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.03939451097826413
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.03102403707204177
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.021954951357073017
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.016543779356356578
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Shockingly enjoyable experience.Loved their house specialty cocktail which came with a cool layer of foam on top and was really delicious (and shockingly...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.47846635914435165
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.2195893897646199
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.10077929027952924
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.05945793811135416
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.039563888502433635
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.035797427998328704
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.026407026545966803
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.02406240658496912
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.01587627306844678
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Amazing food and incredibly attentive service! I can't say enough good things about our experience this evening... the wine, the extensive variety of meats,...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.44667155007813975
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.3558415239708114
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.1164354661726358
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.019852124774791834
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.018260757233611695
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.013129194656783302
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.01197872048039057
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.009795210712455772
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.008035451920379789
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Wonderful salad bar. Very high quality salads. Meat was average. Meat very salty and very little flavor. They had a gas grill, hence not really much flavor...",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.9774255057934718
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.012045320190541399
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0024999623209959916
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.001667426067722537
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.001655775193588337
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0015863879313736638
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0014039239234547366
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0008671425725017927
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0008485560063496457
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Bar-5/5Salad Bar- 4/5Staff- 5/5Dessert- 4/5Happy Hour-3.5/5 due to reason below. Final rating- 4/51st: Park in the garage and get your ticket...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9504043453665091
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.026738948911112306
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.004518781405281478
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.004422960617344791
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.003991859372193471
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.00345348290630589
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.002798406495120029
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.002071829756955327
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0015993851691775151
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Great Indian food, everything was excellent.  If Vietcong the area will be back again.",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.964500019817557
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.01625878196227942
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.005447599648552416
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0035041792573128304
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002612812349631059
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.002208682468708725
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.001976811591933824
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0018547355934260934
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0016363773105986567
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "It's close to the Omni.  Tacos are $2 and they accept ApplePay.  What's not to like!!!  BTW - they're generous with their eggs in the breakfast tacos.",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.8663946034518191
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.06317900207902294
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.02499619113121709
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.01084656365037456
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.008489355960950396
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.008176294919955297
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.007874778596349802
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0055476427815637054
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.004495567428747083
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I looove the yellow chicken curry! It's sooo perfectly flavored. The crispy egg-rolls are bomb and crispy AF!I also love the chicken satay and peanut sauce,...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9814747013353591
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.008150348875441677
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0028007411842964004
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.001903984322029317
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0017714694824011398
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0013156936726264445
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.001006878186284286
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0008799686950412208
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.000696214246520262
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Came here after another close by thai place was closed unexpectedly. To my surprise, this place is actually pretty decent. Con to come later. So first...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.931731982017555
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.020558955089850006
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.014121980740723877
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.01159228005744282
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.00729322264966147
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004914838993479267
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.004468677615116876
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.002763789065222063
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.002554273770948628
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Amazing food and great service. The staff is very friendly as well. The lunch portions are great and are very fairly priced. I love their Thai tea and pad...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9868417501410608
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.006624108079808526
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0018580386234342315
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0013324175997693098
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.000885268619570922
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0008137948478315665
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0006211232360679687
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.000537193795127843
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0004863050573287052
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "The best Pad Thai I ever tasted around DFW. Taste and quality equal to those great ones I had tried in NYC. It's as authentic as the Thai restaurant would...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9864570629367507
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0030541285933956145
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.0025446177715194823
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.002071005176633744
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0019845333754770467
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0010474410238270166
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0010257651373204847
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0009487071340240757
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0008667388510517545
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "We were in town after our flight east was cancelled. Staying in a Marriott nearby. This place was recommended by the hotel staff and we got a lift from the...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9609079746945293
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.01094862662942547
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.008801757437283361
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.0056405468479232635
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0038581251930644663
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.003211054041092653
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0029327892011714696
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.001872849416881047
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.0018262765386289094
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "I came here specifically to try the quality of the tuna sashimi and it did not disappoint! Here are my main takeaways:Very good, close to work and decent...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.7169005401816245
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.22715203885208415
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.01070135191534732
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.010279283233359979
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.009334226542891368
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.008476056469701766
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006387685959204731
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.005701555427830782
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0050672614179550724
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Came here for lunch and restaurant was pretty empty.  Ordered beef teriyaki- was asked for temperature of the meat- medium, came out well done....",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.3223898971225318
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.25113257328587973
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.19562514187973284
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.10524626129917074
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.04735803509432238
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.024844793497186848
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.020890543674944157
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.01756564469268639
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.014947109453545167
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Environment - Nice and modern. If you are lucky, you may be able to see the view of the lake. Service- Very helpful and welcomingVisual of food-- Very...",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9406516191354509
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.02323835843363098
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.014852965406109798
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.0046430081131336705
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.0041553207664802635
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.003820933345064954
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0035134547843332182
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.0027511116561794685
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0023732283596167654
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Went for lunch after seeing a few reviews.  Had the hotdog with onions and chili, superb! I'll try the burger next time.",
+          "classes": [
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.9547197539586965
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.01594892015388576
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.007029656017941607
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.005878954418902126
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.0039535591020236445
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.003728478143329349
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.003394787607873259
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.002931458290771841
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0024144323065758795
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Good Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Wow what a great find. I have not had Hawaiian style food that I can recall. I'm sure this is just a subset of a wide range of Hawaiian food, but I like it....",
+          "classes": [
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.923252278039536
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.02744255923079474
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.015440346716958868
+               },
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.008736459109096024
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.006590965757224822
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.006471488965533784
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.0057957801606309135
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.003167898473209636
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0031022235470150998
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Food"
+     },
+     {
+          "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/e55175x249-nlc-51139",
+          "text": "Everything is great except the slow service and cooking speed. Only my friend had his food out, so he waited and waited until his food is almost cold for...",
+          "classes": [
+               {
+                    "class_name": "Bad Service",
+                    "confidence": 0.9201448723457653
+               },
+               {
+                    "class_name": "Good Food",
+                    "confidence": 0.03148005370314454
+               },
+               {
+                    "class_name": "Air Pollution",
+                    "confidence": 0.01864472733662104
+               },
+               {
+                    "class_name": "Bad Food",
+                    "confidence": 0.006544585352982656
+               },
+               {
+                    "class_name": "Health Hazard",
+                    "confidence": 0.005759110224977406
+               },
+               {
+                    "class_name": "Good Service",
+                    "confidence": 0.005474378527475505
+               },
+               {
+                    "class_name": "Bad Ambience",
+                    "confidence": 0.004896377442021835
+               },
+               {
+                    "class_name": "Good Ambience",
+                    "confidence": 0.004406052488771213
+               },
+               {
+                    "class_name": "Not Worthy",
+                    "confidence": 0.0026498425782406176
+               }
+          ],
+          "classifier_id": "e55175x249-nlc-51139",
+          "top_class": "Bad Service"
+     }
+]
